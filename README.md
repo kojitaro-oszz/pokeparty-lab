@@ -8,7 +8,7 @@
 
 ## 公開URL
 
-`https://（あなたのGitHubユーザー名）.github.io/pokeparty-lab/`
+`https://kojitaro-oszz.github.io/pokeparty-lab/`
 
 ## できること（動作確認済み）
 
